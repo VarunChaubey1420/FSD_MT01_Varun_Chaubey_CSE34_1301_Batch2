@@ -8,28 +8,28 @@ const PORT = 3000;
 
 let students = [
   {
-    id: 101,
-    rollNumber: "2500320101301",
-    name: "Varun Chaubey",
+    id: 201,
+    rollNumber: "CSE2401",
+    name: "Aarav Sharma",
     branch: "CSE",
     semester: 3,
-    email: "varunchaubey757@gmail.com",
+    email: "aarav@example.com",
   },
   {
-    id: 102,
-    rollNumber: "2500320101311",
-    name: "Vedant Gupta",
-    branch: "ELCE",
+    id: 202,
+    rollNumber: "ECE2402",
+    name: "Diya Verma",
+    branch: "ECE",
     semester: 3,
-    email: "vedant@gmail.com",
+    email: "diya@example.com",
   },
   {
-    id: 103,
-    rollNumber: "2500320101305",
-    name: "Vatsal Bharadwaj",
+    id: 203,
+    rollNumber: "CSE2403",
+    name: "Kabir Singh",
     branch: "CSE",
     semester: 3,
-    email: "vatsal@gmail.com",
+    email: "kabir@example.com",
   },
 ];
 
