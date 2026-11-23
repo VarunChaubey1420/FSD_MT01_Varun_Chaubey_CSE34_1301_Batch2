@@ -1,0 +1,7 @@
+$kind: http-request
+name: ""
+url: http://localhost:3000/api/students/filter?branch=CSE
+method: GET
+queryParams:
+  branch: CSE
+order: 1000
